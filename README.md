@@ -3,8 +3,6 @@
 <!--
 **Natanael135/Natanael135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
 - 🔭 Eu estou atualmente fazendo faculdade na UFC;
 - 🌱 Eu estou atualmente aprendendo JavaScript, Java, CSS, HTML;
 - 📫 Você pode me encontrar em: natanael.melo@alu.ufc.br;
