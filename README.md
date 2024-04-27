@@ -4,7 +4,7 @@
 **Natanael135/Natanael135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 Eu estou atualmente fazendo faculdade na UFC;
-- 🌱 Eu estou atualmente aprendendo JavaScript;
+- 🌱 Eu estou atualmente aprendendo Java no Back-end - Santander Bootcamp 2024 - DIO;
 - 📫 Você pode me encontrar em: natanael.melo@alu.ufc.br;
 <div align="center">
   <a href="https://github.com/Natanael135">
