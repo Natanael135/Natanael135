@@ -1,4 +1,4 @@
-<h6 align="left">👋 Olá Sou Natanael Melo<br><br>- 🔭 Atualmente eu estou fazendo Engenharia de Computação pela Universidade Federal do Ceará;<br><br>- 🌱 Gosto de estudar programação, tudo que automatize algo para ser mais rápido e melhorar o dia a dia das pessoas.<br><br>- 📫 Você pode me encontrar em: natanaelmelo.dev@gmail.com;</h6>
+<h6 align="left">👋 Olá Sou Natanael Melo<br><br>- 🔭 Atualmente eu estou fazendo Engenharia de Computação pela Universidade Federal do Ceará;<br><br>- 🌱 Gosto de estudar programação, tudo que automatize algo para ser mais rápido e melhorar o dia a dia das pessoas.<br></h6>
 
 ###
 
